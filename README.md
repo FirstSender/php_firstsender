@@ -1,6 +1,6 @@
 # php_firstsender
 
-API class for FirstSender (PHP)
+API class for FirstSender (PHP). You can [view documentation](http://firstsender.com/apidoc/).
 
 ## Available methods:
 
