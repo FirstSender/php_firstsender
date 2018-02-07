@@ -16,6 +16,12 @@ API class for FirstSender (PHP)
 * campaignGetItem()
 * campaignRemove()
 
+### For email notification category
+
+* send()
+* list()
+* log()
+
 ### For subscribers lists category
 
 * listCreate()
